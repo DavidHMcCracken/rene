@@ -2,10 +2,13 @@
 # This shebang is only for Linux. Without it many distros default to Python 2, 
 # which cannot execute this script. Also for Linux, this file uses Unix line 
 # endings. This is only for the shebang line. Python doesn't care.
-#
+
 # rene.py
+# Updated: 2019.02.13
 # Extended file rename utility for Windows and Linux.
-# Updated: 2019.02.11
+# Author David McCracken
+# Released under GNU General Public License v3.0
+
 # See help for a brief usage description. See rene.doc for a more complete
 # description of use and program design. See the automated test program
 # renet.py for more examples.

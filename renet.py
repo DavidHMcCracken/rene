@@ -2,9 +2,13 @@
 # This shebang is only for Linux. Without it many distros default to Python 2, 
 # which cannot execute this script. Also for Linux, this file uses Unix line 
 # endings. This is only for the shebang line. Python doesn't care.
-#
+
 # renet.py
-# Updated 2019.02.09
+# Updated: 2019.02.13
+# Test program for rene.py
+# Author David McCracken
+# Released under GNU General Public License v3.0
+
 # Full life-cycle tester for rene.py. Exercises the rene.py located in the same
 # directory so a new version can be tested even if another is located on the
 # path and even if this directory is not.
